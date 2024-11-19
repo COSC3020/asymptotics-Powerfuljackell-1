@@ -2,7 +2,7 @@
 
 "I certify that I have listed all sources used to complete this exercise, including the use of any Large Language Models. All of the work is my own, except where stated otherwise. I am aware that plagiarism carries severe penalties and that if plagiarism is suspected, charges may be filed against me without prior notice." 
 
-Used Prior Work at: https://github.com/COSC3020/asymptotics-Powerfuljackell
+Used prior approved work at: https://github.com/COSC3020/asymptotics-Powerfuljackell
 
 Each row in the table below specifies two functions $f(n)$ and $g(n)$.
 Fill in the *number* from this list that best describes their relationship:
